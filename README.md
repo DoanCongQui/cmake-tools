@@ -13,7 +13,7 @@ add_executable(main <name_file_main>)
 target_link_libraries(main ${OpenCV_LIBS})
 
 ```
-
+Run terminal
 ```
 mkdir -p build
 cd build
